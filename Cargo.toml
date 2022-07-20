@@ -1,4 +1,5 @@
 [workspace]
 members = [
-    "mouse-timer"
+    "mouse-timer",
+    "encoding-convert"
 ]
