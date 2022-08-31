@@ -1,5 +1,6 @@
 [workspace]
 members = [
     "mouse-timer",
-    "encoding-convert"
+    "encoding-convert",
+    "subgit",
 ]
